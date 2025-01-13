@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Thristan! 👋
 
 Welcome to my GitHub profile!
