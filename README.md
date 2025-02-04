@@ -3,12 +3,12 @@
 Welcome to my GitHub profile!
 
 ## 💻 About Me
-- 🌱 I’m learning: **C, Python, HTML/CSS, JavaScript**
+- 🌱 I’m learning: **C, Java, Python, HTML/CSS, JavaScript**
 - 🎨 I'm currently a 1st Year **Computer Science Student**.
 - 🗣️ Languages: Fluent in **Filipino** and English
 
 ## 🔧 Tools & Technologies
-- **Languages**: Python, C, JavaScript, HTML/CSS
+- **Languages**: C, Java, Python, HTML/CSS, JavaScript
 - **Design Tools**: Adobe Photoshop, Illustrator
 - **Version Control**: Git, GitHub
 
