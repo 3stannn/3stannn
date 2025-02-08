@@ -2,8 +2,8 @@
 Hi there, I'm Thristan! 👋
 Welcome to my GitHub profile!
 
-💻 About Me
-🎨 I'm currently a 1st Year Computer Science Student.
+💻 About Me<br>
+🎨 I'm currently a 1st Year Computer Science Student.<br>
 🗣️ Languages: Fluent in Filipino and English<br>
 
 📫 Let's Connect<br>
