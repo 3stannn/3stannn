@@ -1,6 +1,16 @@
 # 💫 About Me:
-Hi there, I'm Thristan! 👋<br>Welcome to my GitHub profile!<br><br>💻 About Me<br>🎨 I'm currently a 1st Year Computer Science Student.<br>🗣️ Languages: Fluent in Filipino and English<br>📫 Let's Connect<br>Email: thristandave12@gmail.com<br>LinkedIn: https://www.linkedin.com/in/thristan-dave-bumagat-86356129a/<br>Thanks for visiting my profile! 🚀
+Hi there, I'm Thristan! 👋
+Welcome to my GitHub profile!
 
+💻 About Me
+🎨 I'm currently a 1st Year Computer Science Student.
+🗣️ Languages: Fluent in Filipino and English<br>
+
+📫 Let's Connect
+Email: thristandave12@gmail.com
+LinkedIn: https://www.linkedin.com/in/thristan-dave-bumagat-86356129a/
+
+Thanks for visiting my profile! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thristan-dave-bumagat-86356129a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thristandave12@gmail.com) 
