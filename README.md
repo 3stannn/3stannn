@@ -6,8 +6,8 @@ Welcome to my GitHub profile!
 🎨 I'm currently a 1st Year Computer Science Student.
 🗣️ Languages: Fluent in Filipino and English<br>
 
-📫 Let's Connect
-Email: thristandave12@gmail.com
+📫 Let's Connect<br>
+Email: thristandave12@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/thristan-dave-bumagat-86356129a/
 
 Thanks for visiting my profile! 🚀
