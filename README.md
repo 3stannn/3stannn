@@ -3,7 +3,7 @@ Hi there, I'm Thristan! 👋
 Welcome to my GitHub profile!
 
 💻 About Me<br>
-🎨 I'm currently a 1st Year Computer Science Student.<br>
+🎨 I'm currently a 2nd Year Computer Science Student.<br>
 🗣️ Languages: Fluent in Filipino and English<br>
 
 📫 Let's Connect<br>
