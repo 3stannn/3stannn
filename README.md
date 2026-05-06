@@ -4,7 +4,7 @@
 
 ### A passionate developer from [Your Location]
 
-<img src="https://github.com/3stannn.png" alt="Thristan Dave Bumagat" width="150" height="150" style="border-radius: 50%;" />
+<img src="https://github.com/tids.png" alt="Thristan Dave Bumagat" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3stannn)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/thristan-dave-bumagat-86356129a/)&nbsp;&nbsp;&nbsp;[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/https://www.behance.net/bitsupremo)&nbsp;&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/662096336161603602)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tids)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/thristan-dave-bumagat-86356129a/)&nbsp;&nbsp;&nbsp;[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/https://www.behance.net/bitsupremo)&nbsp;&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/662096336161603602)
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3stannn&show_icons=true&theme=default&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tids&show_icons=true&theme=default&count_private=true&include_all_commits=true)
 
 </div>
 
@@ -68,6 +68,6 @@
 
 **Thank you for visiting my profile! 😊**
 
-![Profile Views](https://komarev.com/ghpvc/?username=3stannn&color=brightgreen&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=tids&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
