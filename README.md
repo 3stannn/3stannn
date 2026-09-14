@@ -4,8 +4,6 @@ I am a 3rd-year Computer Science student, web developer, and aspiring software e
 
 Some of the applications I have designed, optimized, and deployed:
 
-* [Schedy](https://kodekz.vercel.app/): A modular productivity workspace integrating interactive calendar scheduling, dynamic Kanban boards, rich-text documentation, and announcements, backed by Supabase.
+[Schedy](https://kodekz.vercel.app/): A modular productivity workspace integrating interactive calendar scheduling, dynamic Kanban boards, rich-text documentation, and announcements, backed by Supabase.
 
----
-
-[Portfolio](https://kodekz.vercel.app/) • [GitHub](https://github.com/3stannn) • [LinkedIn](https://www.linkedin.com/in/kodekz01/) • [Email](mailto:thristandave12@gmail.com)
+[Portfolio](https://kodekz.vercel.app/) / [GitHub](https://github.com/3stannn) / [LinkedIn](https://www.linkedin.com/in/kodekz01/) / [Email](mailto:thristandave12@gmail.com)
