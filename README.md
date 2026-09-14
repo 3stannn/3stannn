@@ -1,7 +1,7 @@
 ### Hi there! 👋
-### Thristan Dave Bumagat
+### I am Thristan Dave Bumagat
 
-I am a 3rd-year Computer Science student, web developer, and aspiring software engineer. I spend my time building clean full-stack platforms, bridging frontier AI models with agentic tooling, and architecting normalized relational backends.
+A 3rd-year Computer Science student, web developer, and aspiring software engineer. I spend my time building clean full-stack platforms, bridging frontier AI models with agentic tooling, and architecting normalized relational backends.
 
 Some of the applications I have designed, optimized, and deployed:
 
